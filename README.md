@@ -1,4 +1,5 @@
-<h1 align="center">Olá, eu sou o Jhony santos👋</h1>
+<h1 align="center">Olá, eu sou o Jhony Santos👋
+Desenvolvedor Full Stack em formação</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Sempre+aprendendo+algo+novo;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
@@ -12,10 +13,13 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedor(a) **Full Stack**, trabalhando principalmente com **JavaScript**
-- 🌱 Sempre aprendendo e evoluindo na área de desenvolvimento web
-- 💬 Pergunte-me sobre **JavaScript, React e Node.js**
-- 📫 Como me encontrar: veja os links de contato abaixo 👇
+💻 Desenvolvedor Full Stack em formação
+
+🚀 Atualmente estudando HTML, CSS, JavaScript, React e Node.js
+
+🎯 Construindo projetos reais para desenvolver minhas habilidades e conquistar minha primeira oportunidade na área de tecnologia
+
+📚 Aprendizado contínuo através de cursos, prática e desenvolvimento de projetos
 
 ---
 
